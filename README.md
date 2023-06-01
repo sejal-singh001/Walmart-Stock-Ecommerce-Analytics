@@ -8,4 +8,4 @@ Responsibilities:
 4. Utilized tools such as Python, SQL, and Power BI to perform exploratory data analysis and generate reports, dashboards, and visualizations
 5. Used SparkStreaming to analyze streaming walmart data and compare walmart current stock prices with previous prices
 
-# ENVIRONMENT: HDFS, Sqoop, Hive, PySpark, MySQL, SparkSQL
+### ENVIRONMENT: HDFS, Sqoop, Hive, PySpark, MySQL, SparkSQL
