@@ -9,3 +9,4 @@ Responsibilities:
 5. Used SparkStreaming to analyze streaming walmart data and compare walmart current stock prices with previous prices
 
 ### ENVIRONMENT: HDFS, Sqoop, Hive, PySpark, MySQL, SparkSQL
+NOTE: I have uploaded question and solution PDFs, IPYNB files for Walmart, Ecommerce and streaming datasets along with walmart dataset(couldn't upload other datasets due to suze issue)
